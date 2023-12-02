@@ -1,0 +1,14 @@
+theme: jekyll-theme-slate
+title: MD-102 - Endpoint Administrator
+description: Companion material and resources for the course 'Endpoint Administrator' delivery by Ricardo Cabral 
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - .github/
+include:
+  - README.md
+author: Ricardo Cabral
+twitter_username: rramoscabral
+github_username:  rramoscabral
+
