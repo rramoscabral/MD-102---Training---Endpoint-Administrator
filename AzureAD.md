@@ -1,3 +1,5 @@
+<a id="top" />
+
 # Azure Active Directory resources
 
 ## Azure Active Directory Connect

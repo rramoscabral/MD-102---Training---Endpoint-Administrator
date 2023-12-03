@@ -27,7 +27,7 @@ Training for Microsoft Official Course (MOC) MD-102: Endpoint Administrator
 
 <!-- - [Samples](./samples.md) -->
 
-<!-- - [Licensing & Pricing](./licensing-pricing.md) -->
+- [Licensing & Pricing](./licensing-pricing.md)
 
 - [Resources](./resources.md)
 
