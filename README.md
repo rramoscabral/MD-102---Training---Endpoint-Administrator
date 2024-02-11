@@ -2,7 +2,7 @@
 
 # Training for Microsoft Official Course (MOC) MD-102: Endpoint Administrator
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) MD-1012: Endpoint Administrator.
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Official Course (MOC) MD-102: Endpoint Administrator.
 
 
 The Microsoft 365 Endpoint Administrator is responsible for deploying, configuring, securing, managing, and monitoring devices and client applications in a corporate setting. Their duties include managing identity, access, policies, updates, and apps.

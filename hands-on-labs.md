@@ -19,7 +19,7 @@
 Oficial MD-102 Hands-on Labs
 
 * ***MD-102*** official course lab instructions is available [**here**](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator/tree/master/Instructions/Labs). 
-* You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrators)
+* You can download the latest instructions and complete solution [**here**](https://github.com/MicrosoftLearning/MD-102T00-Microsoft-365-Endpoint-Administrator)
 
 <br/>
 

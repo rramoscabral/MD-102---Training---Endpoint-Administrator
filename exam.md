@@ -122,7 +122,7 @@ They offer the official practice test, certKit, assessment, video training or bu
 The practice test is designed to help candidates prepare for and pass the Microsoft exam.
 
 You can access demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
-  1. Access [www.measureup.com](https://www.measureup.com).
+  1. Access [www.measureup.com](https://www.measureup.com#u5).
   1. Hover the mouse over Sign in, and click on SIGN IN.
   1. Type your username and password, and click on Sign in.
   1. On the top menu, hover the mouse over Account, and click on My Learning Locker.
